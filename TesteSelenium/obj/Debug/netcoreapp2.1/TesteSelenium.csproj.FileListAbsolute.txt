@@ -1,0 +1,13 @@
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/bin/Debug/netcoreapp2.1/TesteSelenium.deps.json
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/bin/Debug/netcoreapp2.1/TesteSelenium.runtimeconfig.json
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/bin/Debug/netcoreapp2.1/TesteSelenium.runtimeconfig.dev.json
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/bin/Debug/netcoreapp2.1/TesteSelenium.dll
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/bin/Debug/netcoreapp2.1/TesteSelenium.pdb
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/obj/Debug/netcoreapp2.1/TesteSelenium.csproj.CoreCompileInputs.cache
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/obj/Debug/netcoreapp2.1/TesteSelenium.AssemblyInfoInputs.cache
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/obj/Debug/netcoreapp2.1/TesteSelenium.AssemblyInfo.cs
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/obj/Debug/netcoreapp2.1/TesteSelenium.dll
+/Users/alinechaves/iCloud Drive (Arquivo) - 1/Documents/Automacao/TesteSelenium/TesteSelenium/obj/Debug/netcoreapp2.1/TesteSelenium.pdb
